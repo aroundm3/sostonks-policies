@@ -1,0 +1,16 @@
+title: SoStonk
+description: Privacy & Legal Policies
+theme: jekyll-theme-minimal
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# GitHub Pages specific
+github:
+  is_project_page: true
+  repository_url: https://github.com/yourusername/sostonk-policies
+
+# SEO
+twitter:
+  username: sostonks_app
