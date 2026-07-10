@@ -7,7 +7,7 @@
 
 ## 1. Introduction
 
-SoStonk is a professional strategy backtesting and chart analysis tool for iOS, macOS, and visionOS. Your privacy is important to us.
+SoStonks is a professional strategy backtesting and chart analysis tool for iOS, macOS, and visionOS. Your privacy is important to us.
 
 ---
 
@@ -36,7 +36,7 @@ All data is stored exclusively on your device:
 
 ## 4. Third-Party Services
 
-SoStonk integrates with the following services **for data retrieval only**:
+SoStonks integrates with the following services **for data retrieval only**:
 
 - **Apple StoreKit 2** - for processing in-app purchases (Playback, Price Action)
 - **Binance API** - for cryptocurrency price data (public data only)
@@ -70,7 +70,7 @@ When you purchase features like Playback or Price Action Toolkit:
 
 ## 7. Device Permissions
 
-SoStonk may request the following permissions (depending on platform):
+SoStonks may request the following permissions (depending on platform):
 
 - **Chart data access** - to save and load strategies
 - **Clipboard access** - to copy/paste symbols or strategies
@@ -84,7 +84,7 @@ You can revoke these permissions anytime in device settings.
 
 We may update this Privacy Policy occasionally to reflect changes in our practices or for other operational, legal, or regulatory reasons. We will notify you by updating the "Last Updated" date above.
 
-Your continued use of SoStonk after such modifications constitutes your acceptance of the updated Privacy Policy.
+Your continued use of SoStonks after such modifications constitutes your acceptance of the updated Privacy Policy.
 
 ---
 
@@ -98,8 +98,8 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 
 ## 10. Legal
 
-This privacy policy is provided "as-is" and is intended to be transparent about our data practices. SoStonk is committed to protecting your privacy and maintaining the confidentiality of your trading strategies and data.
+This privacy policy is provided "as-is" and is intended to be transparent about our data practices. SoStonks is committed to protecting your privacy and maintaining the confidentiality of your trading strategies and data.
 
 ---
 
-*SoStonk respects your privacy. Your data is yours alone.*
+*SoStonks respects your privacy. Your data is yours alone.*

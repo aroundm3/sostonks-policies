@@ -1,14 +1,14 @@
-# SoStonk Policies
+# SoStonks Policies
 
-Legal and policy documents for SoStonk trading strategy simulator.
+Legal and policy documents for SoStonks trading strategy simulator.
 
 ## Contents
 
 - [Privacy Policy](./privacy.md) — How we handle your data (spoiler: we don't)
 
-## About SoStonk
+## About SoStonks
 
-SoStonk is a professional strategy backtesting and technical analysis tool for:
+SoStonks is a professional strategy backtesting and technical analysis tool for:
 - iOS
 - macOS
 - visionOS
