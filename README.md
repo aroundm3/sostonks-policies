@@ -1,3 +1,8 @@
+---
+layout: default
+title: SoStonks Policies
+---
+
 # SoStonks Policies
 
 Legal and policy documents for SoStonks trading strategy simulator.

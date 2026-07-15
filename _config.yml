@@ -9,7 +9,7 @@ plugins:
 # GitHub Pages specific
 github:
   is_project_page: true
-  repository_url: https://github.com/yourusername/sostonks-policies
+  repository_url: https://github.com/aroundm3/sostonks-policies
 
 # SEO
 twitter:
