@@ -34,7 +34,7 @@ last_updated: "Ngày 16 tháng 7 năm 2026"
 ## 1. Chấp nhận điều khoản
 {: #acceptance}
 
-Các Điều khoản sử dụng này ("**Điều khoản**") điều chỉnh việc bạn truy cập và sử dụng SoStonks ("**Ứng dụng**"), một công cụ kiểm thử chiến lược (backtesting), phân tích biểu đồ và mô phỏng phát lại (playback simulation) dành cho iOS, iPadOS, macOS và visionOS. Bằng việc tải xuống, cài đặt, hoặc sử dụng Ứng dụng, bạn đồng ý bị ràng buộc bởi các Điều khoản này và bởi [Chính sách quyền riêng tư](/vi/privacy/) của chúng tôi. Nếu bạn không đồng ý, vui lòng không sử dụng Ứng dụng.
+Các Điều khoản sử dụng này ("**Điều khoản**") điều chỉnh việc bạn truy cập và sử dụng SoStonks ("**Ứng dụng**"), một công cụ kiểm thử chiến lược (backtesting), phân tích biểu đồ và mô phỏng phát lại (playback simulation) dành cho iOS và iPadOS. Bằng việc tải xuống, cài đặt, hoặc sử dụng Ứng dụng, bạn đồng ý bị ràng buộc bởi các Điều khoản này và bởi [Chính sách quyền riêng tư](/vi/privacy/) của chúng tôi. Nếu bạn không đồng ý, vui lòng không sử dụng Ứng dụng.
 
 Nếu bạn truy cập Ứng dụng thông qua App Store của Apple, bạn cũng đồng ý với [Thỏa thuận cấp phép người dùng cuối cho ứng dụng được cấp phép](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) của Apple, thỏa thuận này bổ sung — và, trong trường hợp có xung đột trực tiếp, sẽ được ưu tiên áp dụng hơn — các Điều khoản này liên quan đến vai trò riêng của Apple với tư cách là nhà phân phối.
 

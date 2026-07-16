@@ -34,7 +34,7 @@ last_updated: "2026年7月16日"
 ## 1. 条款的接受
 {: #acceptance}
 
-本使用条款（"**本条款**"）规范您对 SoStonks（"**本应用**"）的访问与使用，SoStonks 是一款适用于 iOS、iPadOS、macOS 和 visionOS 的策略回测、图表分析与回放模拟工具。下载、安装或使用本应用，即表示您同意受本条款及我们[隐私政策](/zh-hans/privacy/)的约束。如果您不同意，请勿使用本应用。
+本使用条款（"**本条款**"）规范您对 SoStonks（"**本应用**"）的访问与使用，SoStonks 是一款适用于 iOS 和 iPadOS 的策略回测、图表分析与回放模拟工具。下载、安装或使用本应用，即表示您同意受本条款及我们[隐私政策](/zh-hans/privacy/)的约束。如果您不同意，请勿使用本应用。
 
 如果您通过 Apple App Store 访问本应用，您同时也同意 Apple 的[《许可应用最终用户许可协议》](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)，该协议在涉及 Apple 作为分发方的自身角色方面对本条款起补充作用；如与本条款直接冲突，则以该协议为准。
 

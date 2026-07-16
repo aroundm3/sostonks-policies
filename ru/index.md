@@ -9,7 +9,7 @@ permalink: /ru/
 # Центр юридической информации SoStonks
 {: .doc-title}
 
-Юридические и политические документы для **SoStonks** — приложения для бэктестинга торговых стратегий, анализа графиков и симуляции воспроизведения для iOS, iPadOS, macOS и visionOS.
+Юридические и политические документы для **SoStonks** — приложения для бэктестинга торговых стратегий, анализа графиков и симуляции воспроизведения для iOS и iPadOS.
 {: .lede}
 
 {% assign privacy_page = site.pages | where: "doc", "privacy" | where: "lang", page.lang | first %}
@@ -31,8 +31,6 @@ SoStonks — это профессиональный инструмент для
 
 - iOS
 - iPadOS
-- macOS
-- visionOS
 
 Узнайте больше на сайте [sostonks.app](https://sostonks.app).
 

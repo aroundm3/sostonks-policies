@@ -34,7 +34,7 @@ last_updated: "2026년 7월 16일"
 ## 1. 약관의 동의
 {: #acceptance}
 
-본 이용약관("**약관**")은 iOS, iPadOS, macOS, visionOS를 위한 전략 백테스트, 차트 분석 및 플레이백 시뮬레이션 도구인 SoStonks("**앱**")에 대한 귀하의 접근 및 이용을 규율합니다. 앱을 다운로드, 설치 또는 이용함으로써 귀하는 본 약관 및 당사의 [개인정보처리방침](/ko/privacy/)에 구속되는 것에 동의합니다. 동의하지 않으시는 경우, 앱을 이용하지 마시기 바랍니다.
+본 이용약관("**약관**")은 iOS, iPadOS를 위한 전략 백테스트, 차트 분석 및 플레이백 시뮬레이션 도구인 SoStonks("**앱**")에 대한 귀하의 접근 및 이용을 규율합니다. 앱을 다운로드, 설치 또는 이용함으로써 귀하는 본 약관 및 당사의 [개인정보처리방침](/ko/privacy/)에 구속되는 것에 동의합니다. 동의하지 않으시는 경우, 앱을 이용하지 마시기 바랍니다.
 
 Apple App Store를 통해 앱에 접근하는 경우, 귀하는 Apple의 [라이선스 애플리케이션 최종사용자 사용권 계약(Licensed Application End User License Agreement)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)에도 동의하는 것이며, 이는 Apple의 배급자로서의 역할과 관련하여 본 약관을 보완하고, 직접적으로 상충하는 경우 본 약관에 우선합니다.
 

@@ -9,7 +9,7 @@ permalink: /vi/
 # Trung tâm pháp lý SoStonks
 {: .doc-title}
 
-Tài liệu pháp lý và chính sách dành cho **SoStonks** — một ứng dụng kiểm thử chiến lược (backtesting), phân tích biểu đồ, và mô phỏng phát lại (playback simulation) dành cho iOS, iPadOS, macOS, và visionOS.
+Tài liệu pháp lý và chính sách dành cho **SoStonks** — một ứng dụng kiểm thử chiến lược (backtesting), phân tích biểu đồ, và mô phỏng phát lại (playback simulation) dành cho iOS và iPadOS.
 {: .lede}
 
 {% assign privacy_page = site.pages | where: "doc", "privacy" | where: "lang", page.lang | first %}
@@ -31,8 +31,6 @@ SoStonks là một công cụ kiểm thử chiến lược và phân tích kỹ 
 
 - iOS
 - iPadOS
-- macOS
-- visionOS
 
 Tìm hiểu thêm tại [sostonks.app](https://sostonks.app).
 

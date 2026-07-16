@@ -9,7 +9,7 @@ permalink: /
 # SoStonks Legal Center
 {: .doc-title}
 
-Legal and policy documents for **SoStonks** — a strategy backtesting, chart analysis, and playback simulation app for iOS, iPadOS, macOS, and visionOS.
+Legal and policy documents for **SoStonks** — a strategy backtesting, chart analysis, and playback simulation app for iOS and iPadOS.
 {: .lede}
 
 {% assign privacy_page = site.pages | where: "doc", "privacy" | where: "lang", page.lang | first %}
@@ -31,8 +31,6 @@ SoStonks is a professional strategy backtesting and technical analysis tool avai
 
 - iOS
 - iPadOS
-- macOS
-- visionOS
 
 Learn more at [sostonks.app](https://sostonks.app).
 

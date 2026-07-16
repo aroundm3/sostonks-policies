@@ -34,7 +34,7 @@ last_updated: "July 16, 2026"
 ## 1. Acceptance of Terms
 {: #acceptance}
 
-These Terms of Use ("**Terms**") govern your access to and use of SoStonks (the "**App**"), a strategy backtesting, chart analysis, and playback simulation tool for iOS, iPadOS, macOS, and visionOS. By downloading, installing, or using the App, you agree to be bound by these Terms and by our [Privacy Policy](/privacy/). If you do not agree, do not use the App.
+These Terms of Use ("**Terms**") govern your access to and use of SoStonks (the "**App**"), a strategy backtesting, chart analysis, and playback simulation tool for iOS and iPadOS. By downloading, installing, or using the App, you agree to be bound by these Terms and by our [Privacy Policy](/privacy/). If you do not agree, do not use the App.
 
 If you are accessing the App through Apple's App Store, you also agree to Apple's [Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/), which supplements — and, where directly conflicting, takes precedence over — these Terms with respect to Apple's own role as distributor.
 

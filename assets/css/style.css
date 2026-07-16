@@ -126,12 +126,29 @@ a:hover {
   text-decoration: none;
 }
 .site-brand-mark {
-  width: 22px;
-  height: 22px;
-  border-radius: 6px;
-  background: linear-gradient(135deg, #34c759, #0a84ff);
+  width: 20px;
+  height: 21px;
   display: inline-block;
   flex: none;
+}
+.site-brand-mark-dark {
+  display: none;
+}
+
+:root[data-theme="dark"] .site-brand-mark-light {
+  display: none;
+}
+:root[data-theme="dark"] .site-brand-mark-dark {
+  display: inline-block;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .site-brand-mark-light {
+    display: none;
+  }
+  :root:not([data-theme="light"]) .site-brand-mark-dark {
+    display: inline-block;
+  }
 }
 
 .site-nav {

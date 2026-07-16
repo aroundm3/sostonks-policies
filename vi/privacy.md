@@ -34,7 +34,7 @@ last_updated: "Ngày 16 tháng 7 năm 2026"
 ## 1. Giới thiệu
 {: #introduction}
 
-SoStonks ("**SoStonks**," "**chúng tôi**," hoặc "**của chúng tôi**") là công cụ kiểm thử chiến lược (backtesting), phân tích biểu đồ và mô phỏng phát lại (playback simulation) dành cho iOS, iPadOS, macOS và visionOS. Chính sách quyền riêng tư này giải thích những thông tin mà ứng dụng xử lý, cách thức lưu trữ thông tin đó, và các lựa chọn dành cho bạn.
+SoStonks ("**SoStonks**," "**chúng tôi**," hoặc "**của chúng tôi**") là công cụ kiểm thử chiến lược (backtesting), phân tích biểu đồ và mô phỏng phát lại (playback simulation) dành cho iOS và iPadOS. Chính sách quyền riêng tư này giải thích những thông tin mà ứng dụng xử lý, cách thức lưu trữ thông tin đó, và các lựa chọn dành cho bạn.
 
 SoStonks được xây dựng dựa trên một nguyên tắc đơn giản: **chiến lược giao dịch, kết quả backtest và phân tích thị trường của bạn luôn được lưu trên thiết bị của bạn.** Chúng tôi không vận hành máy chủ backend, và chúng tôi không duy trì tài khoản người dùng.
 

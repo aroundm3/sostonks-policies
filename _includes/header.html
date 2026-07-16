@@ -6,7 +6,8 @@
 <header class="site-header">
   <div class="site-header-inner">
     <a class="site-brand" href="{{ home_page.url | relative_url }}">
-      <span class="site-brand-mark" aria-hidden="true"></span>
+      <img class="site-brand-mark site-brand-mark-light" src="{{ '/assets/img/logo-light.svg' | relative_url }}" alt="" aria-hidden="true">
+      <img class="site-brand-mark site-brand-mark-dark" src="{{ '/assets/img/logo-dark.svg' | relative_url }}" alt="" aria-hidden="true">
       {{ t.site_title }}
     </a>
 

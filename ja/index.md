@@ -9,7 +9,7 @@ permalink: /ja/
 # SoStonks 法的情報センター
 {: .doc-title}
 
-**SoStonks**（iOS、iPadOS、macOS、visionOS向けの戦略バックテスト、チャート分析、プレイバックシミュレーションアプリ）に関する法的文書およびポリシー文書です。
+**SoStonks**（iOS、iPadOS向けの戦略バックテスト、チャート分析、プレイバックシミュレーションアプリ）に関する法的文書およびポリシー文書です。
 {: .lede}
 
 {% assign privacy_page = site.pages | where: "doc", "privacy" | where: "lang", page.lang | first %}
@@ -31,8 +31,6 @@ SoStonksは、以下のプラットフォームでご利用いただけるプロ
 
 - iOS
 - iPadOS
-- macOS
-- visionOS
 
 詳しくは[sostonks.app](https://sostonks.app)をご覧ください。
 

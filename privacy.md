@@ -34,7 +34,7 @@ last_updated: "July 16, 2026"
 ## 1. Introduction
 {: #introduction}
 
-SoStonks ("**SoStonks**," "**we**," "**our**," or "**us**") is a strategy backtesting, chart analysis, and playback simulation tool for iOS, iPadOS, macOS, and visionOS. This Privacy Policy explains what information the app handles, how it is stored, and the choices available to you.
+SoStonks ("**SoStonks**," "**we**," "**our**," or "**us**") is a strategy backtesting, chart analysis, and playback simulation tool for iOS and iPadOS. This Privacy Policy explains what information the app handles, how it is stored, and the choices available to you.
 
 SoStonks is built around a simple principle: **your trading strategies, backtests, and market analysis stay on your device.** We do not operate a backend server, and we do not maintain user accounts.
 
