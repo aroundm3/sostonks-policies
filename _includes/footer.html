@@ -1,0 +1,25 @@
+{% assign t = site.data.i18n[page.lang] %}
+{% assign target_pages = site.pages | where: "doc", page.doc %}
+
+<footer class="site-footer">
+  <div class="site-footer-inner">
+    <div class="footer-tagline">{{ t.footer_tagline }}</div>
+
+    <nav class="footer-langs" aria-label="{{ t.available_in }}">
+      <span class="footer-tagline">{{ t.available_in }}:</span>
+      {% for lang in site.languages %}
+        {% assign match = target_pages | where: "lang", lang.code | first %}
+        {% if match %}
+          <a href="{{ match.url | relative_url }}" class="{% if lang.code == page.lang %}is-active{% endif %}">{{ lang.native }}</a>
+        {% endif %}
+      {% endfor %}
+    </nav>
+
+    <div class="footer-bottom">
+      <span>&copy; {{ site.time | date: "%Y" }} SoStonks. {{ t.footer_rights }}</span>
+      <a href="mailto:support@sostonks.app">support@sostonks.app</a>
+    </div>
+  </div>
+</footer>
+
+<script src="{{ '/assets/js/theme.js' | relative_url }}" defer></script>

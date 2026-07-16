@@ -1,0 +1,38 @@
+{% assign t = site.data.i18n[page.lang] %}
+{% assign home_page = site.pages | where: "doc", "index" | where: "lang", page.lang | first %}
+{% assign privacy_page = site.pages | where: "doc", "privacy" | where: "lang", page.lang | first %}
+{% assign terms_page = site.pages | where: "doc", "terms" | where: "lang", page.lang | first %}
+
+<header class="site-header">
+  <div class="site-header-inner">
+    <a class="site-brand" href="{{ home_page.url | relative_url }}">
+      <span class="site-brand-mark" aria-hidden="true"></span>
+      {{ t.site_title }}
+    </a>
+
+    <nav class="site-nav" aria-label="{{ t.site_title }}">
+      <a href="{{ home_page.url | relative_url }}" class="{% if page.doc == 'index' %}is-active{% endif %}">{{ t.nav_home }}</a>
+      <a href="{{ privacy_page.url | relative_url }}" class="{% if page.doc == 'privacy' %}is-active{% endif %}">{{ t.nav_privacy }}</a>
+      <a href="{{ terms_page.url | relative_url }}" class="{% if page.doc == 'terms' %}is-active{% endif %}">{{ t.nav_terms }}</a>
+    </nav>
+
+    <div class="site-controls">
+      {% assign target_pages = site.pages | where: "doc", page.doc %}
+      <select class="hdr-select" id="lang-select" aria-label="{{ t.language_switch_label }}"
+        onchange="if(this.value) location.href=this.value;">
+        {% for lang in site.languages %}
+          {% assign match = target_pages | where: "lang", lang.code | first %}
+          {% if match %}
+            <option value="{{ match.url | relative_url }}" {% if lang.code == page.lang %}selected{% endif %}>{{ lang.native }}</option>
+          {% endif %}
+        {% endfor %}
+      </select>
+
+      <select class="hdr-select" id="theme-select" aria-label="{{ t.theme_toggle_label }}">
+        <option value="system">{{ t.theme_system }}</option>
+        <option value="light">{{ t.theme_light }}</option>
+        <option value="dark">{{ t.theme_dark }}</option>
+      </select>
+    </div>
+  </div>
+</header>

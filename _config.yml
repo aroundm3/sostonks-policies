@@ -1,7 +1,13 @@
 title: SoStonks
-description: Privacy & Legal Policies
-theme: jekyll-theme-minimal
+description: Privacy & Legal Policies for SoStonks
+url: "https://aroundm3.github.io"
+baseurl: "/sostonk-policies"
+
 markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -9,8 +15,41 @@ plugins:
 # GitHub Pages specific
 github:
   is_project_page: true
-  repository_url: https://github.com/aroundm3/sostonks-policies
+  repository_url: https://github.com/aroundm3/sostonk-policies
 
 # SEO
 twitter:
   username: sostonks_app
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: legal
+      lang: en
+
+languages:
+  - code: en
+    name: English
+    native: English
+  - code: ja
+    name: Japanese
+    native: 日本語
+  - code: ko
+    name: Korean
+    native: 한국어
+  - code: ru
+    name: Russian
+    native: Русский
+  - code: vi
+    name: Vietnamese
+    native: Tiếng Việt
+  - code: zh-hans
+    name: Chinese (Simplified)
+    native: 简体中文
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
