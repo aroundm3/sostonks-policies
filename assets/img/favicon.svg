@@ -1,0 +1,12 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SoStonks">
+<rect width="32" height="32" rx="8" fill="#A05D33"/>
+<g transform="translate(5.66, 5.12) scale(0.018133)">
+<rect x="300" width="600" height="300" rx="70" fill="#FFF8F0"/>
+<rect x="600" width="300" height="300" rx="70" fill="#FFF8F0"/>
+<rect y="300" width="300" height="300" rx="70" fill="#FFF8F0"/>
+<rect x="600" y="182" width="300" height="300" rx="70" fill="#FFF8F0"/>
+<rect x="300" y="600" width="300" height="474" rx="70" fill="#FFF8F0"/>
+<rect x="660" y="600" width="481" height="600" rx="70" fill="#FFF8F0"/>
+<rect y="900" width="600" height="300" rx="70" fill="#FFF8F0"/>
+</g>
+</svg>
