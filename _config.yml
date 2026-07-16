@@ -1,7 +1,7 @@
 title: SoStonks
 description: Privacy & Legal Policies for SoStonks
 url: "https://aroundm3.github.io"
-baseurl: "/sostonk-policies"
+baseurl: "/sostonks-policies"
 
 markdown: kramdown
 kramdown:
@@ -15,7 +15,7 @@ plugins:
 # GitHub Pages specific
 github:
   is_project_page: true
-  repository_url: https://github.com/aroundm3/sostonk-policies
+  repository_url: https://github.com/aroundm3/sostonks-policies
 
 # SEO
 twitter:
