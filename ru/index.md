@@ -31,4 +31,4 @@ SoStonks — это профессиональный инструмент для
 
 ## Поддержка
 
-Есть вопросы об этих политиках или самом приложении? Напишите нам на [support@sostonks.app](mailto:support@sostonks.app).
+Есть вопросы об этих политиках или самом приложении? Напишите нам на [gnoud17.thng@gmail.com](mailto:gnoud17.thng@gmail.com).

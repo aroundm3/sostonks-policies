@@ -149,5 +149,5 @@ SoStonksはお客様のコンテンツを保存するサーバーを運用して
 
 本プライバシーポリシーまたは当社のデータ取り扱いに関するご質問、ご懸念、またはご要望がございましたら、以下までお問い合わせください。
 
-**メール：** [support@sostonks.app](mailto:support@sostonks.app)
+**メール：** [gnoud17.thng@gmail.com](mailto:gnoud17.thng@gmail.com)
 {: .contact-block}

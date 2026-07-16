@@ -31,4 +31,4 @@ Learn more at [sostonks.app](https://sostonks.app).
 
 ## Support
 
-Questions about these policies or the app itself? Email us at [support@sostonks.app](mailto:support@sostonks.app).
+Questions about these policies or the app itself? Email us at [gnoud17.thng@gmail.com](mailto:gnoud17.thng@gmail.com).

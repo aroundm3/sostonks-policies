@@ -149,5 +149,5 @@ SoStonks는 귀하의 콘텐츠를 저장하는 서버를 운영하지 않으므
 
 본 개인정보처리방침 또는 당사의 데이터 처리 관행에 관하여 문의, 우려 사항, 또는 요청이 있으신 경우 아래로 연락해 주시기 바랍니다.
 
-**이메일:** [support@sostonks.app](mailto:support@sostonks.app)
+**이메일:** [gnoud17.thng@gmail.com](mailto:gnoud17.thng@gmail.com)
 {: .contact-block}

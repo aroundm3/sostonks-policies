@@ -52,4 +52,4 @@ GitHub Pages, served from the `main` branch (Settings → Pages → Source: Depl
 
 ---
 
-Questions: support@sostonks.app
+Questions: gnoud17.thng@gmail.com
