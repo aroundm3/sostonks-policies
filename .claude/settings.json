@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh api *)",
+      "Bash(curl -sI https://aroundm3.github.io/sostonk-policies/)",
+      "Bash(curl -sI https://aroundm3.github.io/sostonks-policies/)",
+      "Bash(curl -s https://aroundm3.github.io/sostonks-policies/)",
+      "Bash(rm -v terms.md ja/terms.md ko/terms.md ru/terms.md vi/terms.md zh-hans/terms.md)",
+      "Bash(bundle exec *)",
+      "Bash(jekyll build *)",
+      "Bash(find /private/tmp/claude-501/-Users-nguyenthaiduong-Documents-trading-sostonks-policies/56d78053-3435-4ceb-b4d5-20ac7473dc79/scratchpad/_site_test -iname terms*)",
+      "Bash(python3 -c ' *)"
+    ],
+    "additionalDirectories": [
+      "/Users/nguyenthaiduong/Documents/trading/sostonks-policies"
+    ]
+  }
+}

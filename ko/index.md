@@ -13,15 +13,10 @@ permalink: /ko/
 {: .lede}
 
 {% assign privacy_page = site.pages | where: "doc", "privacy" | where: "lang", page.lang | first %}
-{% assign terms_page = site.pages | where: "doc", "terms" | where: "lang", page.lang | first %}
 <div class="doc-cards" markdown="0">
   <a class="doc-card" href="{{ privacy_page.url | relative_url }}">
     <span class="doc-card-title">개인정보처리방침</span>
     <span class="doc-card-desc">SoStonks가 처리하는 데이터, 저장 방식, 귀하의 선택 사항.</span>
-  </a>
-  <a class="doc-card" href="{{ terms_page.url | relative_url }}">
-    <span class="doc-card-title">이용약관</span>
-    <span class="doc-card-desc">거래 리스크 고지를 포함하여, 앱 이용에 관한 규칙.</span>
   </a>
 </div>
 

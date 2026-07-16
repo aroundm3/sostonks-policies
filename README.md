@@ -1,15 +1,14 @@
 # SoStonks Policies
 
-Source for the SoStonks legal site: Privacy Policy and Terms of Use, hosted on GitHub Pages and linked from the App Store IAP flow.
+Source for the SoStonks legal site: Privacy Policy, hosted on GitHub Pages and linked from the App Store IAP flow.
 
 **Live site:** https://aroundm3.github.io/sostonk-policies/
 
 ## Structure
 
-Built with Jekyll. Content lives in per-language directories; English is at the repo root and each other language has its own folder (`ja/`, `ko/`, `ru/`, `vi/`, `zh-hans/`), mirroring the same three pages:
+Built with Jekyll. Content lives in per-language directories; English is at the repo root and each other language has its own folder (`ja/`, `ko/`, `ru/`, `vi/`, `zh-hans/`), mirroring the same two pages:
 
 - `privacy.md` — Privacy Policy
-- `terms.md` — Terms of Use
 - `index.md` — legal center landing page
 
 Every page carries front matter (`lang`, `doc`, `permalink`, ...) that the layouts and includes use to resolve the correct localized equivalent of a page at build time — nav links, the language switcher, and the footer's "Available in" list are all computed from `site.pages`, not hardcoded, so adding a language only means adding content, not touching templates.
@@ -21,7 +20,7 @@ _includes/            # head, header (nav + language/theme switchers), footer
 _layouts/              # default (HTML shell), legal, home
 assets/css/style.css   # design system: light/dark theme via CSS custom properties
 assets/js/theme.js      # theme <select> persistence (localStorage)
-privacy.md, terms.md, index.md   # English (default language)
+privacy.md, index.md             # English (default language)
 ja/ ko/ ru/ vi/ zh-hans/          # translated pages + matching i18n data file
 ```
 
@@ -44,8 +43,7 @@ Then open `http://localhost:8932/sostonk-policies/` (the `baseurl` prefix is req
 
 ## Adding or editing content
 
-- Anchor ids on headings (`{: #section-slug}`) must stay identical across every language — they're used for same-page TOC links and cross-document links (e.g. Terms → Privacy §6).
-- Cross-links between Terms and Privacy must point at the same-language equivalent page (e.g. `ja/terms.md` links to `/ja/privacy/`, not `/privacy/`).
+- Anchor ids on headings (`{: #section-slug}`) must stay identical across every language — they're used for same-page TOC links.
 - New UI chrome strings go in `_data/i18n/en.yml` first, then get mirrored (translated) into every other `_data/i18n/{code}.yml`.
 
 ## Deployment

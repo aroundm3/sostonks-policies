@@ -13,15 +13,10 @@ permalink: /ja/
 {: .lede}
 
 {% assign privacy_page = site.pages | where: "doc", "privacy" | where: "lang", page.lang | first %}
-{% assign terms_page = site.pages | where: "doc", "terms" | where: "lang", page.lang | first %}
 <div class="doc-cards" markdown="0">
   <a class="doc-card" href="{{ privacy_page.url | relative_url }}">
     <span class="doc-card-title">プライバシーポリシー</span>
     <span class="doc-card-desc">SoStonksが取り扱うデータの内容、保存方法、およびお客様の選択肢について。</span>
-  </a>
-  <a class="doc-card" href="{{ terms_page.url | relative_url }}">
-    <span class="doc-card-title">利用規約</span>
-    <span class="doc-card-desc">取引リスクに関する開示事項を含む、本アプリのご利用にあたってのルール。</span>
   </a>
 </div>
 

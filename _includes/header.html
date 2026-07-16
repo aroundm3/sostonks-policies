@@ -1,7 +1,6 @@
 {% assign t = site.data.i18n[page.lang] %}
 {% assign home_page = site.pages | where: "doc", "index" | where: "lang", page.lang | first %}
 {% assign privacy_page = site.pages | where: "doc", "privacy" | where: "lang", page.lang | first %}
-{% assign terms_page = site.pages | where: "doc", "terms" | where: "lang", page.lang | first %}
 
 <header class="site-header">
   <div class="site-header-inner">
@@ -14,7 +13,6 @@
     <nav class="site-nav" aria-label="{{ t.site_title }}">
       <a href="{{ home_page.url | relative_url }}" class="{% if page.doc == 'index' %}is-active{% endif %}">{{ t.nav_home }}</a>
       <a href="{{ privacy_page.url | relative_url }}" class="{% if page.doc == 'privacy' %}is-active{% endif %}">{{ t.nav_privacy }}</a>
-      <a href="{{ terms_page.url | relative_url }}" class="{% if page.doc == 'terms' %}is-active{% endif %}">{{ t.nav_terms }}</a>
     </nav>
 
     <div class="site-controls">

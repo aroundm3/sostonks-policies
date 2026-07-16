@@ -13,15 +13,10 @@ SoStonks 的法律与政策文件——SoStonks 是一款适用于 iOS 和 iPadO
 {: .lede}
 
 {% assign privacy_page = site.pages | where: "doc", "privacy" | where: "lang", page.lang | first %}
-{% assign terms_page = site.pages | where: "doc", "terms" | where: "lang", page.lang | first %}
 <div class="doc-cards" markdown="0">
   <a class="doc-card" href="{{ privacy_page.url | relative_url }}">
     <span class="doc-card-title">隐私政策</span>
     <span class="doc-card-desc">SoStonks 处理哪些数据、如何存储这些数据，以及您可行使的选择。</span>
-  </a>
-  <a class="doc-card" href="{{ terms_page.url | relative_url }}">
-    <span class="doc-card-title">使用条款</span>
-    <span class="doc-card-desc">使用本应用的相关规则，包括我们的交易风险披露。</span>
   </a>
 </div>
 
