@@ -30,4 +30,4 @@ SoStonks là một công cụ kiểm thử chiến lược và phân tích kỹ 
 
 ## Hỗ trợ
 
-Bạn có câu hỏi về các chính sách này hoặc về bản thân ứng dụng? Hãy gửi email cho chúng tôi tại [gnoud17.thng@gmail.com](mailto:gnoud17.thng@gmail.com).
+Bạn có câu hỏi về các chính sách này hoặc về bản thân ứng dụng? Hãy gửi email cho chúng tôi tại [gnoud17@icloud.com](mailto:gnoud17@icloud.com).

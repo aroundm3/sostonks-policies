@@ -124,5 +124,5 @@ We may update this Privacy Policy from time to time to reflect changes in the ap
 
 If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 
-**Email:** [gnoud17.thng@gmail.com](mailto:gnoud17.thng@gmail.com)
+**Email:** [gnoud17@icloud.com](mailto:gnoud17@icloud.com)
 {: .contact-block}

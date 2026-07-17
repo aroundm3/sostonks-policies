@@ -30,4 +30,4 @@ SoStonksは、以下のプラットフォームでご利用いただけるプロ
 
 ## サポート
 
-本ポリシーまたは本アプリ自体に関するご質問がございましたら、[gnoud17.thng@gmail.com](mailto:gnoud17.thng@gmail.com)までメールにてお問い合わせください。
+本ポリシーまたは本アプリ自体に関するご質問がございましたら、[gnoud17@icloud.com](mailto:gnoud17@icloud.com)までメールにてお問い合わせください。
