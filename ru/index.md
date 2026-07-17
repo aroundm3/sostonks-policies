@@ -27,7 +27,6 @@ SoStonks — это профессиональный инструмент для
 - iOS
 - iPadOS
 
-Узнайте больше на сайте [sostonks.app](https://sostonks.app).
 
 ## Поддержка
 

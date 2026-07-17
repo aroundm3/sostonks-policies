@@ -27,7 +27,6 @@ SoStonks là một công cụ kiểm thử chiến lược và phân tích kỹ 
 - iOS
 - iPadOS
 
-Tìm hiểu thêm tại [sostonks.app](https://sostonks.app).
 
 ## Hỗ trợ
 

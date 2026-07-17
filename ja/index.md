@@ -27,7 +27,6 @@ SoStonksは、以下のプラットフォームでご利用いただけるプロ
 - iOS
 - iPadOS
 
-詳しくは[sostonks.app](https://sostonks.app)をご覧ください。
 
 ## サポート
 

@@ -27,8 +27,6 @@ SoStonks is a professional strategy backtesting and technical analysis tool avai
 - iOS
 - iPadOS
 
-Learn more at [sostonks.app](https://sostonks.app).
-
 ## Support
 
 Questions about these policies or the app itself? Email us at [gnoud17.thng@gmail.com](mailto:gnoud17.thng@gmail.com).
